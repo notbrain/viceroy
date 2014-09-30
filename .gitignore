@@ -1,5 +1,6 @@
 *.log
 cache
+app/bower
 node_modules/
 build/
 dist/
