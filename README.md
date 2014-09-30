@@ -6,5 +6,6 @@ From this repo, you should be able to piece together the collection of gulp mast
 #ToDo
 
 - [ ] Caching
-- [ ] LESS Source Maps
+- [ ] JS Source Maps
+- [ ] Get LESS Source Maps to show up in Chrome inspector
 - [ ] ???

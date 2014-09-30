@@ -1,7 +1,7 @@
 {
-  "name": "f1ntasy",
-  "description": "Formula 1 Fantasy Game and API",
-  "repository": "git@github.com:notbrain/f1ntasy.git",
+  "name": "viceroy",
+  "description": "A collection of gulp tasks for various frameworks and components.",
+  "repository": "git@github.com:notbrain/viceroy.git",
   "dependencies": {},
   "private": true,
   "devDependencies": {

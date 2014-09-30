@@ -1,8 +1,8 @@
 'use strict';
 
-angular.module('f1ntasyApp')
+angular.module('viceroyApp')
 .controller('MainCtrl', function($log){
   
-  $log.debug('hello world')
+  $log.debug('Hello from MainCtrl.js')
   
 })

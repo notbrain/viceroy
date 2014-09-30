@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('f1ntasyApp', [
+angular.module('viceroyApp', [
   'ngResource',
   'ngRoute',
   'ngSanitize'
