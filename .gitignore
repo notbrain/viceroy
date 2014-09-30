@@ -1,0 +1,12 @@
+*.log
+cache
+node_modules/
+build/
+dist/
+release/
+tmp/
+logs/
+.DS_Store
+pids
+*.pid
+*.seed

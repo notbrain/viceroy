@@ -1,0 +1,34 @@
+{
+  "name": "viceroy",
+  "version": "0.0.1",
+  "license": "All Rights Reserved",
+  "private": true,
+  "homepage": "https://github.com/notbrain/viceroy",
+  "authors": [
+    "Intrinsic Bits <brian@intrinsicbits.com>"
+  ],
+  "main": "app/index.html",
+  "overrides": {
+    "semantic-ui": {
+      "main": [
+        "build/uncompressed/**/*"
+      ]
+    }
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/test",
+    "app/tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.23",
+    "semantic-ui": "0.19.0",
+    "angular-resource": "1.2.23",
+    "angular-sanitize": "1.2.23",
+    "angular-route": "1.2.23"
+  },
+  "moduleType": [
+    "node"
+  ]
+}
