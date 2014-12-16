@@ -12,6 +12,7 @@ From this repo, you should be able to piece together the collection of gulp mast
 
 #ToDo
 
+- [ ] Add images of each type processed by imagemin to gauge processing time
 - [ ] Caching
 - [ ] JS Source Maps
 - [ ] Get LESS Source Maps to show up in Chrome inspector
